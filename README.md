@@ -1,5 +1,7 @@
 # hellobios
 
+![tela.jpg](tela.jpg)
+
 ```bash
 # instala dependências
 sudo apt install clang lld qemu-system-x86 -y

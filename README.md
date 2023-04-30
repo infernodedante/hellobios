@@ -1,6 +1,8 @@
 # hellobios
 <center>
+
 ![tela.jpg](tela.jpg)
+
 </center>
 ```bash
 # instala dependências

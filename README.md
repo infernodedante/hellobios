@@ -1,10 +1,10 @@
 # hellobios
 
-<div style="text-align:center">
+<p style="text-align:center">
 
 ![tela.jpg](tela.jpg)
 
-</div>
+</p>
 
 ```bash
 # instala dependências

@@ -16,4 +16,4 @@ qemu-system-x86_64 -hda hello.bin
 
 ## créditos
 
-baseado no código encontrado em https://github.com/hikalium/hello_world_with_bios
+baseado no código encontrado em [hikalium/hello_world_with_bios](https://github.com/hikalium/hello_world_with_bios/tree/master/legacy_asm)

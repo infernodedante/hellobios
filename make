@@ -1,6 +1,3 @@
-# hellobios
-
-```bash
 # instala dependências
 sudo apt install clang lld qemu-system-x86 -y
 
@@ -12,4 +9,3 @@ ld.lld --oformat binary -T hello.ld -o hello.bin hello.o && hexdump -C hello.bin
 
 # roda a porra toda
 qemu-system-x86_64 -hda hello.bin
-```

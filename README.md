@@ -1,9 +1,7 @@
 # hellobios
 
 <p align="center">
-
-![tela.jpg](tela.jpg)
-
+<img src="https://github.com/infernodedante/hellobios/raw/main/tela.jpg" />
 </p>
 
 ```bash

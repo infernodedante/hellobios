@@ -13,3 +13,7 @@ ld.lld --oformat binary -T hello.ld -o hello.bin hello.o && hexdump -C hello.bin
 # roda a porra toda
 qemu-system-x86_64 -hda hello.bin
 ```
+
+## créditos
+
+baseado no código encontrado em https://github.com/hikalium/hello_world_with_bios

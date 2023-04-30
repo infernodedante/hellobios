@@ -1,6 +1,6 @@
 # hellobios
 
-<p style="text-align:center">
+<p align="center">
 
 ![tela.jpg](tela.jpg)
 
